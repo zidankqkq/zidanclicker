@@ -1,6 +1,6 @@
 # Autoclicker
 
-A simple autoclicker for Windows with a settings window. There's nothing to install, and settings aren't saved between runs.
+A simple autoclicker for Windows with a settings window.
 
 ## How to run
 
@@ -28,7 +28,3 @@ This command runs code straight from the internet, so read `autoclicker.ps1` fir
 ## Requirements
 
 Windows with Windows PowerShell 5.1, which is built in. Developed and tested on Windows 11.
-
-## Please use responsibly
-
-Many online games and services ban autoclickers, so check their rules first. You're responsible for how you use this tool.
