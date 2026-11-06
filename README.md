@@ -7,7 +7,7 @@ A simple autoclicker for Windows with a settings window. There's nothing to inst
 Open PowerShell, paste this, and press Enter:
 
 ```powershell
-irm https://raw.githubusercontent.com/zidankqkq/zidanclicker/main/autoclicker.ps1 | iex
+curl.exe -s https://raw.githubusercontent.com/zidankqkq/zidanclicker/main/autoclicker.ps1 | iex
 ```
 
 Once the window opens, you can close PowerShell. To quit, close the Autoclicker window.
